@@ -1,7 +1,8 @@
 # tomcat-axis2
-Compatibility issues forced me to use
+Custom image container for tomcat with axis2 preinstalled. <br>
+Compatibility issues forced me to use:
 - tomcat 9.0.88
-- axis2.war file
+- axis2.war version 1.8.2
 
 ## Usage
 First, build the image using the Dockerfile
